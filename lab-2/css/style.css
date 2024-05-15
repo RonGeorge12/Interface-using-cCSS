@@ -1,0 +1,38 @@
+/** Step one **/
+html{
+    scroll-behavior: smooth;
+}
+
+/** Step two **/
+h1{
+    font-family: "Oswald", sans-serif;
+    font-size: 46px;
+    letter-spacing: 1.75px;
+    color: rgb(226, 159, 77);
+    text-align: center;
+
+}
+/** Step three **/
+
+
+h2,p,li,a{
+    font-family: "Reddit sans", sans-serif;
+    
+    color: rgb(75, 139, 8);
+    
+}
+
+
+
+/** Step five **/
+p span{
+    color: rgb(53, 147, 228);
+}
+/** Step six **/
+h3{
+    text-transform: uppercase;
+    color: rgb(229, 102, 102);
+    font-size: 32px;
+    letter-spacing: 1px;
+    text-shadow: 4px 3px 4px rgb(230, 230, 82);
+}
